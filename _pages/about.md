@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an asprinig PhD student. 
+I'm an asprinig PhD student for business school. I received Master in Computer Science from New York Unversity (NYU), and bachelor degree in Computer Science and Art History from Smith College. I have worked at Bank of America and Google Summer of Code. 
 
 A data-driven personal website
 ======
