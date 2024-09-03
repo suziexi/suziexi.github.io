@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Mobile Payments and Urban Mobility: Assessing the Influence of Mobile Payments on Metro Ridership and Environmental Enhancement"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
@@ -11,4 +11,4 @@ paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+How do mobile payments reshape consumer behavior and urban living beyond their acknowledged role in streamlining transactions? The rise of mobile payments and e-commerce expansion have transformed the marketing landscape. While their impact on business growth and consumer purchasing habits is well-recognized, the potential influence of mobile payments on public services largely remains an untapped area in marketing research. This study bridges this research gap by investigating the effects of mobile payment adoption within the metro systems, and exploring its implications on consumer behavior, urban lifestyle, and environmental quality. We gathered daily metro ridership data from 2017 to 2020 for 20 prominent Chinese cities. By capitalizing on diverse adoption timelines across these cities, we utilized a lead-and-lag Difference-in-Differences method to evaluate the impact of integrating mobile payments into metro systems. Our findings indicate that the incorporation of mobile payments significantly boosts daily metro ridership, highlighting its effectiveness as a marketing tool in promoting public transportation. Furthermore, the increased utilization of public transportation considerably contributes to the enhancement of urban environmental quality, emphasizing the importance of mobile payments in fostering sustainable consumer behavior patterns. Our research offers key insights into how payment innovations impact not just consumer behavior but also urban mobility, public services, and environmental well-being. These insights can guide marketers and urban planners in leveraging mobile payment technology to enhance public service delivery and promote sustainable urban lifestyles.
