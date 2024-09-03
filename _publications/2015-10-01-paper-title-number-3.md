@@ -2,7 +2,7 @@
 title: "Generative Al in Recruitment: A Comparative Study of Llama2 and ChatGPT for Resume Screening"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/generativeai
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Generative Al in Recruitment: A Comparative Study of Llama2 and ChatGPT for Resume Screening'
