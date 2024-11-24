@@ -10,7 +10,7 @@
     <!-- Link to external JavaScript -->
     <script src="script.js" defer></script>
     <style>
-        /* Inline styles for quick preview; move these to styles.css */
+        /* Inline styles for demonstration; move these to styles.css */
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -20,10 +20,14 @@
             color: #333;
         }
         header {
-            background-color: #4CAF50;
-            color: white;
+            background-color: #d3d3d3; /* Light grey background */
             padding: 1rem 2rem;
             text-align: center;
+        }
+        header h1 {
+            font-size: 1.5rem; /* Ensure font size consistency */
+            margin: 0;
+            color: #333; /* Ensure clear visibility */
         }
         section {
             max-width: 800px;
@@ -33,13 +37,8 @@
             border-radius: 8px;
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
-        section h2 {
-            color: #4CAF50;
-            font-size: 1.75rem;
-            margin-bottom: 1rem;
-        }
         section p {
-            margin-bottom: 1rem;
+            margin: 0;
         }
         footer {
             text-align: center;
@@ -54,25 +53,15 @@
 <body>
     <!-- Header Section -->
     <header>
-        <h1>Generative AI in Recruitment Study</h1>
-        <p>Exploring Llama2 and ChatGPT for Resume Screening</p>
+        <h1>Generative AI in Recruitment: A Comparative Study of Llama2 and ChatGPT for Resume Screening</h1>
     </header>
     
     <!-- Main Content Section -->
     <main>
         <section id="section1">
-            <h2>Generative AI in Recruitment: A Comparative Study</h2>
-            <p>Generative AI has the potential to enhance hiring efficiency at scale; however, the integration of Large Language Models (LLMs) into such processes requires examination of trade-offs.</p>
-            <p>Thus, we study a popular open-source model, Llama 2-13B, and a closed-source model, ChatGPT, in the context of the recruitment process. We focus on their lexical processing, explanation, and decision-making abilities. We aim to address critical concerns, such as enhancing the financial accessibility of open-source LLMs, addressing privacy concerns, improving explainability in hiring processes, and ensuring transparency and reproducibility in their outcomes.</p>
-            <p>We use a resume dataset (Jiechieu & Tsopze, 2020) and a job description dataset from PromptCloud and DataStock. First, we assess the capability of Llama2 and ChatGPT to convert resumes into structured data and effectively align them with job descriptions. Next, we utilize methodologies such as word embedding, BERTopic, and LlamaIndex to determine how well these models match resumes with job descriptions based on their suitability.</p>
-            <p>Additionally, we investigate the key input features that influence decision-making in Llama2 during the resume screening process and employ Integrated Gradients and Chain-of-Thought Prompting to explore the models’ explainability (Parasurama et al., 2022).</p>
-            <p>This study emphasizes the necessity of evaluating Generative AI applications in recruitment to enhance efficiency and ensure fairness in the automated hiring process.</p>
+            <p>Generative AI has the potential to enhance hiring efficiency at scale; however, the integration of Large Language Models (LLMs) into such processes requires examination of trade-offs. Thus, we study a popular open-source model, Llama 2-13B, and a closed-source model, ChatGPT, in the context of the recruitment process. We focus on their lexical processing, explanation, and decision-making abilities. We aim to address critical concerns, such as enhancing the financial accessibility of open-source LLMs, addressing privacy concerns, improving explainability in hiring processes, and ensuring transparency and reproducibility in their outcomes. We use a resume dataset (Jiechieu & Tsopze, 2020) and a job description dataset from PromptCloud and DataStock. First, we assess the capability of Llama2 and ChatGPT to convert resumes into structured data and effectively align them with job descriptions. Next, we utilize methodologies such as word embedding, BERTopic, and LlamaIndex to determine how well these models match resumes with job descriptions based on their suitability. Additionally, we investigate the key input features that influence decision-making in Llama2 during the resume screening process and employ Integrated Gradients and Chain-of-Thought Prompting to explore the models’ explainability (Parasurama et al., 2022). This study emphasizes the necessity of evaluating Generative AI applications in recruitment to enhance efficiency and ensure fairness in the automated hiring process.</p>
         </section>
     </main>
-    
-    <!-- Footer Section -->
-    <footer>
-        <p>&copy; 2024 Generative AI in Recruitment Study. All rights reserved.</p>
-    </footer>
 </body>
 </html>
+
